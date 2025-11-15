@@ -2,6 +2,8 @@
 
 Small Python project modelling Authors, Magazines and Articles for a learning exercise.
 
+**Author:** Kenneth Kipkosgei
+
 ## Requirements
 - Python 3.13 (see `Pipfile`)
 - pipenv (optional but recommended)
